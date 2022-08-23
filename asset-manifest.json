@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/search-repos/static/css/main.21eca462.css",
+    "main.js": "/search-repos/static/js/main.4d4cdfdc.js",
+    "static/media/avatar.svg": "/search-repos/static/media/avatar.c29bd1ba69e7a65f9dda05cbea2c8cf7.svg",
+    "static/media/subs.svg": "/search-repos/static/media/subs.09443db4a387046c3e5b87db048f9e12.svg",
+    "static/media/fork.svg": "/search-repos/static/media/fork.496127d5b540e1fb5d2ece23b12c386f.svg",
+    "static/media/Logo.svg": "/search-repos/static/media/Logo.b4f024f04aa0ade261541f988af6dd9b.svg",
+    "static/media/star.svg": "/search-repos/static/media/star.4e0b25c1ed3c2d37197c2d039c5f921f.svg",
+    "static/media/repo.svg": "/search-repos/static/media/repo.4a2ffd1d65cfc29b4864f56bb456d7b2.svg",
+    "static/media/heart.svg": "/search-repos/static/media/heart.98b73dd55b06232f8b71f313bc5c9ad9.svg",
+    "static/media/close.svg": "/search-repos/static/media/close.2ed0231722314e7e4186e4c77b3867e2.svg",
+    "static/media/company.svg": "/search-repos/static/media/company.3f941df83441229bea63d2845263ed9d.svg",
+    "static/media/heart-active.svg": "/search-repos/static/media/heart-active.d7c23f5cf2354d420cb3764e36528984.svg",
+    "static/media/alert-warning.svg": "/search-repos/static/media/alert-warning.01b665cf3765d790a9841125ee19c69b.svg",
+    "index.html": "/search-repos/index.html",
+    "static/media/eye-close.svg": "/search-repos/static/media/eye-close.9aad487ad11ce8192501ed18bc6f2726.svg",
+    "static/media/eye-open.svg": "/search-repos/static/media/eye-open.43dfc03256e6286a8c5776af2e4f369f.svg",
+    "static/media/link.svg": "/search-repos/static/media/link.e8d1260269de4c1158a0c3f3bdbcffd0.svg",
+    "static/media/arrow.svg": "/search-repos/static/media/arrow.ecad57091a9ca784aabb29cfc8352b98.svg",
+    "static/media/location.svg": "/search-repos/static/media/location.3b3ed28f42a157192845ecd74cd1a8c7.svg",
+    "static/media/arrow_full.svg": "/search-repos/static/media/arrow_full.3f26a3ee018181d5baeb8701f64b7f61.svg",
+    "static/media/arrow_border.svg": "/search-repos/static/media/arrow_border.2d489907795f1c5dea1f307a3d34f0b2.svg",
+    "main.21eca462.css.map": "/search-repos/static/css/main.21eca462.css.map",
+    "main.4d4cdfdc.js.map": "/search-repos/static/js/main.4d4cdfdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21eca462.css",
+    "static/js/main.4d4cdfdc.js"
+  ]
+}

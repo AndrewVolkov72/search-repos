@@ -1,0 +1,22 @@
+.btn {
+  background: #F6F8FA;
+  border: 1px solid rgba(27, 31, 36, 0.15);
+  box-shadow: 0px 1px 0px rgba(27, 31, 35, 0.04);
+  border-radius: 6px;
+  font-size: 14px;
+  color: #CF222E;
+  padding: 0 12px;
+  height: 28px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all ease .3s;
+  outline: none;
+}
+.btn:hover {
+  background: #A40E26;
+  box-shadow: 0px 1px 0px rgba(27, 31, 35, 0.1);
+  color: #fff;
+}
+.btn:focus {
+  box-shadow: 0px 0px 0px 3px rgba(203, 36, 49, 0.4);
+}

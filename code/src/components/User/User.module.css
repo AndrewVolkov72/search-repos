@@ -1,0 +1,16 @@
+.item {
+  display: flex;
+  align-items: center;
+  color: #24292F;
+  font-weight: 700;
+  border-radius: 6px;
+  padding: 6px 8px;
+}
+.item:hover {
+  background: rgba(208, 215, 222, 0.32);
+}
+.img {
+  height: 50px;
+  border-radius: 100%;
+  margin-right: 10px;
+}

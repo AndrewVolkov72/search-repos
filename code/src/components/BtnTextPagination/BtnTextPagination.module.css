@@ -1,0 +1,28 @@
+.btn {
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+  border: 1px solid #fff;
+  outline: none;
+  color: #57606A;
+  background-color: inherit;
+  cursor: pointer;
+  font-size: 18px;
+}
+.btn:hover, .btn:focus {
+  color: #0969DA;
+  border: 1px solid #D0D7DE;
+  border-radius: 6px;
+}
+.left {
+  flex-direction: row-reverse;
+}
+.right {
+  margin-left: 10px;
+}
+.rotate {
+  transform: rotate(180deg);
+  margin-right: 10px;
+}

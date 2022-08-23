@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+button, input {
+  font-family: 'Inter', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+p {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}

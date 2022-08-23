@@ -1,0 +1,38 @@
+.home {
+  padding: 20px 100px;
+  min-height: calc(100vh - 70px);
+  position: relative;
+}
+.title {
+  margin-top: 0;
+}
+@media (max-width:1700px) {
+  .home {
+    padding: 20px 50px;
+  }
+}
+
+@media (max-width:1024px) {
+  .home {
+    padding: 20px;
+  }
+}
+@media (max-width:425px) {
+  .title {
+    font-size: 24px;
+    text-align: center;
+  }
+}
+@media (max-width:375px) {
+  .title {
+    font-size: 21px;
+  }
+}
+@media (max-width:320px) {
+  .home {
+    padding: 10px;
+  }
+  .title {
+    font-size: 18px;
+  }
+}

@@ -1,0 +1,22 @@
+.btn {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #D0D7DE;
+  border-radius: 6px;
+  cursor: pointer;
+  outline: none;
+  background-color: inherit;
+  color: #24292F;
+  font-weight: 400;
+  padding: 0;
+  font-size: 16px;
+  margin-right: 10px;
+}
+.btn:last-child {
+  margin-right: 0;
+}
+.btn:hover {
+  background-color: #0969DA;
+  border-color: #0969DA;
+  color: #fff;
+}

@@ -1,0 +1,33 @@
+.input {
+  height: 62px;
+  width: 100%;
+  background: #F6F8FA;
+  border: 1px solid #D0D7DE;
+  box-shadow: inset 0px 1px 2px rgba(27, 31, 35, 0.075);
+  border-radius: 6px;
+  outline: none;
+  padding: 0 20px;
+  font-size: 20px;
+}
+.dropDown {
+  box-shadow: 0px 8px 24px rgba(66, 74, 83, 0.12), 0px 1px 3px rgba(27, 31, 36, 0.12);
+  border-radius: 12px;
+  background-color: #fff;
+  padding: 8px;
+  overflow: auto;
+  max-height: calc((62px * 10) + 8px);
+}
+.dropDown_btns {
+  display: flex;
+  align-items: center;
+  height: 62px;
+}
+.subtext {
+  margin: 20px 0;
+}
+
+@media (max-width:425px) {
+  .subtext {
+    margin: 10px 0;
+  }
+}
