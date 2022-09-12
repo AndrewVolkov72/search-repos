@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/search-repos/static/css/main.21eca462.css",
-    "main.js": "/search-repos/static/js/main.4d4cdfdc.js",
+    "main.css": "/search-repos/static/css/main.776724ea.css",
+    "main.js": "/search-repos/static/js/main.687d7954.js",
     "static/media/avatar.svg": "/search-repos/static/media/avatar.c29bd1ba69e7a65f9dda05cbea2c8cf7.svg",
     "static/media/subs.svg": "/search-repos/static/media/subs.09443db4a387046c3e5b87db048f9e12.svg",
     "static/media/fork.svg": "/search-repos/static/media/fork.496127d5b540e1fb5d2ece23b12c386f.svg",
@@ -21,11 +21,11 @@
     "static/media/location.svg": "/search-repos/static/media/location.3b3ed28f42a157192845ecd74cd1a8c7.svg",
     "static/media/arrow_full.svg": "/search-repos/static/media/arrow_full.3f26a3ee018181d5baeb8701f64b7f61.svg",
     "static/media/arrow_border.svg": "/search-repos/static/media/arrow_border.2d489907795f1c5dea1f307a3d34f0b2.svg",
-    "main.21eca462.css.map": "/search-repos/static/css/main.21eca462.css.map",
-    "main.4d4cdfdc.js.map": "/search-repos/static/js/main.4d4cdfdc.js.map"
+    "main.776724ea.css.map": "/search-repos/static/css/main.776724ea.css.map",
+    "main.687d7954.js.map": "/search-repos/static/js/main.687d7954.js.map"
   },
   "entrypoints": [
-    "static/css/main.21eca462.css",
-    "static/js/main.4d4cdfdc.js"
+    "static/css/main.776724ea.css",
+    "static/js/main.687d7954.js"
   ]
 }

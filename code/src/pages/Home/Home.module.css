@@ -5,6 +5,13 @@
 }
 .title {
   margin-top: 0;
+  margin-bottom: 10px;
+}
+.wrapper {
+  margin-bottom: 10px;
+}
+.placeholder {
+  cursor: pointer;
 }
 @media (max-width:1700px) {
   .home {

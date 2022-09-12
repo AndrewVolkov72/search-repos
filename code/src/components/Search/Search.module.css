@@ -23,11 +23,5 @@
   height: 62px;
 }
 .subtext {
-  margin: 20px 0;
-}
-
-@media (max-width:425px) {
-  .subtext {
-    margin: 10px 0;
-  }
+  margin: 10px 0;
 }

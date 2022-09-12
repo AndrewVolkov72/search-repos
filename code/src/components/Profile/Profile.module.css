@@ -47,6 +47,8 @@
 }
 .link {
   color: #0969da;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .link:hover {
   text-decoration: underline;
